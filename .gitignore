@@ -1,3 +1,10 @@
+# IntelliJa Files 
+target/
+build
+release.properties
+.idea
+*.iml
+
 # Compiled class file
 *.class
 
